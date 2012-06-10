@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MFAVoteActivity!</string>
+    <string name="app_name">MFAVote</string>
+    <string name="cellphone">携帯で投票済みの方はこちら</string>
+    <string name="votenow">まだ投票していない方はこちら</string>
+    <string name="here">こちら</string>
+    <string name="input_here">メールで送られた10桁の確認,コードを入力して下さい</string>
+    <string name="delete">消去</string>
+    <string name="ok">OK</string>
+    <string name="select">三企画選んで、決定を押して下さい。</string>
+    <string name="sort">一覧</string>
+    <string name="place">場所</string>
+    <string name="kind">企画分類</string>
+
+    <string-array name="place">
+        <item>指定なし</item>
+        <item>ほげほげ一号館</item>
+        <item>ほげほげ二号館</item>
+        <item>ふがふが一号館</item>
+    </string-array>
+    <string-array name="kind">
+        <item>指定なし</item>
+        <item>模擬店・喫茶店部門</item>
+        <item>学術・文化・展示部門</item>
+        <item>音楽・パフォーマンス部門</item>
+    </string-array>
+
+    <string name="not_yet">未選択</string>
+    <string name="vote_button">決定！</string>
+    <string name="enquete">引き続き来場者アンケートにご協力下さい。</string>
+    <string name="q_one">Q1.性別を教えて下さい</string>
+    <string name="male">男性</string>
+    <string name="female">女性</string>
+    <string name="q_two">Q2.年代を教えて下さい</string>
+    <string name="less_elm">小学生以下</string>
+    <string name="el_j">小中学生</string>
+    <string name="high">高校生</string>
+    <string name="univ">大学生</string>
+    <string name="twenty">20〜30代</string>
+
+    <string-array name="age">
+        <item>選択して下さい</item>
+        <item>小学生未満</item>
+        <item>小中学生</item>
+        <item>高校生</item>
+        <item>大学生</item>
+        <item>20〜30代</item>
+        <item>40〜50代</item>
+        <item>60代以上</item>
+    </string-array>
+
+    <string name="finish">回答！</string>
+    <string name="remove">×</string>
+    <string name="list">選択済み企画：</string>
+
+    <drawable name="transparent_background">#99000000</drawable>
+
+    <string name="desc_filter">こちらのメニューから条件を決めれば、それを満たす企画のみ表示できます。</string>
+    <string name="desc_select">こちらの企画名にタッチして、三企画まで投票する企画を決めて下さい。画面は下にスクロールできます。</string>
+    <string name="desc_vote">選択した企画はこちらに表示されます。企画名の隣の×を押すと、選択が解除されます。</string>
+    <string name="desc_send">投票する企画を一つ以上選んだら、この決定ボタンを押して下さい。</string>
+    <string name="desc_sort">こちらのメニューから、並び順を変更できます。</string>
+    <string name="desc_again">説明を再度見たい時はこちらのボタンを押して下さい。</string>
+    <string name="initial">こちらを押すとその文字から始まる企画のところまでスクロールできます。</string>
+    <string name="next">次の説明へ</string>
+    <string name="previous">戻る</string>
+    <string name="close">説明を終了</string>
+    <string name="view_desc">説明を見る</string>
+    <string name="desc">アプリの操作説明</string>
+
+    <color name="black">#000</color>
+
+    <string name="where">Q3.どこで五月祭を知りましたか(複数選択可)</string>
+    <string name="from_web">公式ウェブページ</string>
+    <string name="from_rel">親戚・知人から</string>
+    <string name="from_pos">ポスター</string>
+    <string name="from_frp">公式フリーペーパー</string>
+    <string name="from_inv">五月祭招待カード</string>
+    <string name="from_otw">Twitter公式アカウント</string>
+    <string name="from_mfs">五月祭 for students</string>
+    <string name="from_gkk">一般企画の告知</string>
+    <string name="from_gtw">一般企画のウェブサイト・Twitterアカウント</string>
+    <string name="from_pat">企画参加者だから</string>
+    <string name="from_oth">その他</string>
+
+</resources>
